@@ -1,4 +1,4 @@
-## This is simple app to fetch users from randomuser.com
+## This is simple app to fetch users from randomuser.me
 
 to see this app go to http://fetching-random-users.surge.sh
 
