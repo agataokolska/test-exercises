@@ -1,6 +1,6 @@
 ## This is simple app to fetch users from randomuser.com
 
-to see this app go to fetching-random-users.surge.sh
+to see this app go to http://fetching-random-users.surge.sh
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
